@@ -1,0 +1,30 @@
+What is the capital of France? ::: Berlin ::: Madrid ::: Rome ::: Paris ::: 3
+Which planet is known as the Red Planet? ::: Venus ::: Mars ::: Jupiter ::: Saturn ::: 1
+What is the chemical symbol for water? ::: O2 ::: CO2 ::: H2O ::: HO ::: 2
+Who wrote 'Romeo and Juliet'? ::: Mark Twain ::: Charles Dickens ::: William Shakespeare ::: Jane Austen ::: 2
+What is the largest mammal? ::: Elephant ::: Blue Whale ::: Hippo ::: Giraffe ::: 1
+Which continent is the Sahara Desert located in? ::: Australia ::: Asia ::: Africa ::: South America ::: 2
+What is 5 multiplied by 6? ::: 30 ::: 28 ::: 35 ::: 32 ::: 0
+What is the boiling point of water (in Celsius)? ::: 80 ::: 100 ::: 90 ::: 70 ::: 1
+What is the smallest prime number? ::: 2 ::: 1 ::: 0 ::: 3 ::: 0
+What gas do plants absorb from the atmosphere? ::: Oxygen ::: Nitrogen ::: Carbon Dioxide ::: Hydrogen ::: 2
+Which language is most spoken in the world? ::: Spanish ::: Hindi ::: English ::: Mandarin Chinese ::: 3
+Which is the longest river in the world? ::: Yangtze ::: Amazon ::: Nile ::: Mississippi ::: 2
+What is the capital of Japan? ::: Kyoto ::: Tokyo ::: Osaka ::: Hiroshima ::: 1
+What is the main ingredient in sushi? ::: Rice ::: Bread ::: Pasta ::: Noodles ::: 0
+Which animal is known as the King of the Jungle? ::: Tiger ::: Elephant ::: Lion ::: Bear ::: 2
+What is the freezing point of water (in Celsius)? ::: 0 ::: -1 ::: 5 ::: -10 ::: 0
+What is the largest ocean on Earth? ::: Atlantic ::: Arctic ::: Pacific ::: Indian ::: 2
+Which organ pumps blood through the body? ::: Brain ::: Lungs ::: Heart ::: Kidney ::: 2
+What is the square root of 81? ::: 9 ::: 7 ::: 8 ::: 6 ::: 0
+How many continents are there? ::: 6 ::: 7 ::: 5 ::: 8 ::: 1
+Which color is a mix of red and white? ::: Orange ::: Pink ::: Purple ::: Yellow ::: 1
+What year did World War II end? ::: 1940 ::: 1945 ::: 1950 ::: 1939 ::: 1
+What part of the plant conducts photosynthesis? ::: Root ::: Stem ::: Leaf ::: Flower ::: 2
+Which device is used to measure temperature? ::: Thermometer ::: Altimeter ::: Scale ::: Barometer ::: 0
+Which is the fastest land animal? ::: Cheetah ::: Lion ::: Horse ::: Deer ::: 0
+Which bird is a symbol of peace? ::: Dove ::: Crow ::: Eagle ::: Owl ::: 0
+What do bees make? ::: Wax ::: Milk ::: Honey ::: Juice ::: 2
+What is 12 divided by 4? ::: 4 ::: 3 ::: 2 ::: 5 ::: 1
+Which country invented pizza? ::: USA ::: Germany ::: Italy ::: Mexico ::: 2
+How many hours are there in a day? ::: 12 ::: 36 ::: 48 ::: 24 ::: 3
