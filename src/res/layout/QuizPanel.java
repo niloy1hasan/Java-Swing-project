@@ -1,6 +1,6 @@
 package res.layout;
 
-import backend_java.Model.Quiz;
+import Backend_Java.Model.Quiz;
 import res.Components.TopBar;
 
 import javax.swing.*;
