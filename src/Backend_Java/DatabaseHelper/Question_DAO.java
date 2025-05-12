@@ -1,6 +1,6 @@
 package Backend_Java.DatabaseHelper;
 
-import backend_java.Model.Quiz;
+import Backend_Java.Model.Quiz;
 
 import java.io.File;
 import java.io.FileNotFoundException;

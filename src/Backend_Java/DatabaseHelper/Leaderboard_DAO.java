@@ -1,6 +1,6 @@
 package Backend_Java.DatabaseHelper;
 
-import backend_java.Model.Result;
+import Backend_Java.Model.Result;
 
 import java.io.File;
 import java.io.FileNotFoundException;
